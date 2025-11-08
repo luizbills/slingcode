@@ -875,7 +875,8 @@ section#editor ul#files > li {
 }
 
 section#editor ul#files > li.active {
-  background-color: #232a25;
+  background-color: #e9ecef;
+  color: #111;
 }
 
 section#editor ul#files > li.active input {
